@@ -7,7 +7,7 @@
     "dev": "nodemon index.js"
   },
   "type": "module",
-  "author": "Jeimy Mateus Ariza",
+  "author": "Jeimy Mateus",
   "license": "ISC",
   "dependencies": {
     "express": "^4.21.2",
